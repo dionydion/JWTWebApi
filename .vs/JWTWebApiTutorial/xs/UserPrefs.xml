@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{A4CB5584-DBAA-4526-9CF1-1B3E100CF380}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JWTWebApiTutorial/appsettings.Development.json">
+    <Files>
+      <File FileName="JWTWebApiTutorial/Models/User.cs" Line="15" Column="1" />
+      <File FileName="JWTWebApiTutorial/appsettings.Development.json" Line="13" Column="1" />
+      <File FileName="JWTWebApiTutorial/Program.cs" Line="16" Column="1" />
+      <File FileName="JWTWebApiTutorial/appsettings.json" Line="4" Column="5" />
+      <File FileName="JWTWebApiTutorial/Migrations/ApplicationDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="JWTWebApiTutorial/Migrations/20220729155845_InitialCreate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JWTWebApiTutorial" expanded="True">
+            <Node name="JWTWebApiTutorial" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20220729161001_CreateAgain.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.JWTWebApiTutorial PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
